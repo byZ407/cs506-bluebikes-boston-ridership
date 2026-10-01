@@ -1,7 +1,7 @@
 # CS506 Final Project: Predicting Bluebikes Ridership in Boston Using Weather and Temportal Features
 
 ## Project Description
-Bluebikes is an essential part of Boston's public transportation network. The city hosts more than 5,600 bikes and nearly 600 stations, providing students, residents, and visitors with a convenient and affordable way to travel between campuses or around the city. However, Bluebikes usage can vary depending on factors such as time of year, seasons, weather conditions, days of the week.
+Bluebikes is an essential part of Boston's public transportation network. The city hosts more than 5,600 bikes and nearly 600 stations, providing students, residents, and visitors with a convenient and affordable way to travel between campuses or around the city. However, Bluebikes usage can vary depending on factors such as time of year, seasons, weather conditions, days of the week.  
 The goal of this project is to understand these patterns and build models that can successfully predict Bluebikes ridership on a given day through analyzing histroical Bluebikes ridership data and weather data in Boston, using the full data science lifecycle that include data collection, data cleaning, feature extraction, data visualization, and model training.
 
 ## Project Timeline
@@ -30,7 +30,7 @@ A potential secondary goal is to rank the features based on feature importance a
 
 ## Data Collection
 ### Bluebikes Ridership Data
-Source: https://bluebikes.com/system-data
+Source: https://bluebikes.com/system-data  
 Bluebikes directly publishes downloadable csv files of Bluebikes trip data each month, the data include:
 - Bike Type & ID
 - Trip Duration (seconds)
@@ -41,7 +41,7 @@ Bluebikes directly publishes downloadable csv files of Bluebikes trip data each 
 - User Type
 
 ### Boston Weather Data
-Source: https://open-meteo.com/en/docs/historical-weather-api
+Source: https://open-meteo.com/en/docs/historical-weather-api  
 I will collect historical weather data for Boston using the Open-Meteo Historical Weather API, the data include:
 - Temperature
 - Rain
