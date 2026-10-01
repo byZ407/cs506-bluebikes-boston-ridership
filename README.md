@@ -25,7 +25,8 @@ I will examine features such as:
 - temperature
 - precipitation
 - snowfall
-and investigate how they are associated with daily Bluebikes ridership.
+
+and investigate how they are associated with daily Bluebikes ridership.  
 A potential secondary goal is to rank the features based on feature importance and find out which features have the strongest correlation with daily Bluebikes ridership. 
 
 ## Data Collection
@@ -55,6 +56,7 @@ Possible models include:
 - Linear Regression
 - Random Forest
 - XGBoost
+
 These are subject to change as we learn more of the data or explore new methods/knowledge in class.
 
 ## Visualization Plan
@@ -62,5 +64,6 @@ Possible visualizations include:
 - Bluebikes ridership vs. temperature
 - Bluebikes ridership vs. precipitation
 - Average Bluebikes ridership by month/day of the week/season
-- Ranked feature importance  
+- Ranked feature importance
+
 These are subject to change as we learn more of the data or explore new methods/knowledge in class.
