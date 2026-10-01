@@ -62,5 +62,5 @@ Possible visualizations include:
 - Bluebikes ridership vs. temperature
 - Bluebikes ridership vs. precipitation
 - Average Bluebikes ridership by month/day of the week/season
-- Ranked feature importance
+- Ranked feature importance  
 These are subject to change as we learn more of the data or explore new methods/knowledge in class.
