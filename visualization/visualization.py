@@ -2,7 +2,7 @@ from pathlib import Path
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Plot temperature against daily rides.
+# mean temperature vs. daily rides
 folder = Path(__file__).resolve().parent
 data = pd.read_csv(folder.parent / "data/processed/ridership_weather.csv")
 plt.figure(figsize=(8, 5))
