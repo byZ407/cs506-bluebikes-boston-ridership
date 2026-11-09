@@ -1,0 +1,1 @@
+Project topic and goals are clear. The timeline seems manageable. Data collection also looks good. The project looks well thought out, I have no further feedback, good job!
